@@ -58,17 +58,21 @@ The **TimeGuard Access Shield** is a secure embedded system that enables or disa
 > My real hardware implementation on Vector’s Advanced Development Board (ARM7)
 
 ### 🔹 LPC2148 Base Board
-![Board]![IMG20251210171924](https://github.com/user-attachments/assets/4a2dde39-e2fd-489b-b1b1-fa61fcc960b3)
+![IMG20251210171924](https://github.com/user-attachments/assets/4a2dde39-e2fd-489b-b1b1-fa61fcc960b3)
 
 
 ### 🔹 LCD + RTC Working
-![RTC]
+![IMG20251210173329](https://github.com/user-attachments/assets/2ca62a6c-1433-4bc1-b34a-709212411064)
+
 
 ### 🔹 Time Not Allowed Screen
-![Not Allowed]()
+![IMG20251210173454](https://github.com/user-attachments/assets/2bc22f03-c189-4539-a02b-b3543f1b31ad)
+
 
 ### 🔹 Main Menu on LCD
-![Menu]()
+![IMG20251210174517](https://github.com/user-attachments/assets/9ff5bf71-ba83-48f4-9d5a-47b6444ae990)
+
 
 ### 🔹 RTC Edit Menu
-![RTC]()
+![IMG20251210174610](https://github.com/user-attachments/assets/dca9cb1d-f6e7-4249-a4d0-ab95f5d7c891)
+
